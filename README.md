@@ -1,16 +1,13 @@
-## Hi there 👋
+### Christopher Dang — Full-Stack Software Engineer
 
-<!--
-**0d0s0c0/0d0s0c0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+20+ years building and owning production systems end to end — browser to database to cloud. Deep in **Java, TypeScript, and AWS**, across enterprise healthcare platforms and consumer apps. I work **AI-native**: Claude Code and Copilot are part of my daily delivery.
 
-Here are some ideas to get you started:
+- 🔭 Full-stack: **Java / Spring Boot · Node.js · Angular · React · TypeScript**
+- ☁️ Cloud & infra: **AWS (Fargate, Lambda, CloudFormation) · Docker · CI/CD**
+- 🗄️ Data: **Oracle · SQL · REST APIs · microservices**
+- 🔐 Security & integrations: **SAML / OAuth / OpenID · AES-256 · FHIR / HL7**
+- 🤖 AI-assisted development (Generative AI certificate, AWS Developer Associate)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Recent healthcare-platform work at Optum / Change Healthcare and McKesson — clinical decision support, secure partner integrations, and a React + WebAssembly clinical viewer.
+
+📫 [LinkedIn](https://linkedin.com/in/christophersdang) · csd0000@gmail.com
